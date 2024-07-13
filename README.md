@@ -1,6 +1,9 @@
 # CareShare: A Hospital Website
 Welcome to the repository for the website of a hospital. This project showcases a clean and responsive design to highlight our creative and professional services. Below is an overview of the project structure and instructions on how to get started.
 
+## Live Demo:
+https://careshare-anshu.netlify.app/
+
 ## Project Structure
 - **index.html**: The main HTML file containing the structure of the website.
 - **styles.css**: The CSS file responsible for styling the website.
